@@ -1,0 +1,558 @@
+{
+	"fileType": "dm-screen",
+	"siteVersion": "1.152.1",
+	"w": 7,
+	"h": 5,
+	"ctc": false,
+	"fs": false,
+	"lk": false,
+	"ps": [
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 0,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 0,
+			"y": 4,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 1,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 1,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 1,
+			"y": 4,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 2,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 2,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 2,
+			"y": 4,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 3,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 3,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 3,
+			"y": 4,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 4,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 4,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 4,
+			"y": 4,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 5,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 5,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 5,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 5,
+			"y": 4,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 6,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 6,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 6,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 6,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 6,
+			"y": 4,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 2,
+			"h": 2,
+			"t": 8,
+			"s": {
+				"state": {
+					"time": 12009600000,
+					"browseTime": null,
+					"isBrowseMode": false,
+					"hoursPerDay": 24,
+					"minutesPerHour": 60,
+					"secondsPerMinute": 60,
+					"hoursPerLongRest": 8,
+					"minutesPerShortRest": 60,
+					"secondsPerRound": 6,
+					"offsetYears": 0,
+					"offsetMonthStartDay": 0,
+					"days": {
+						"e516e781-9232-4e62-9730-d5b558d9fab4": {
+							"name": "Monday",
+							"isDeleted": false,
+							"id": "e516e781-9232-4e62-9730-d5b558d9fab4",
+							"pos": 0
+						},
+						"56d9dc26-9df0-4180-94c4-ae4c26273a64": {
+							"name": "Tuesday",
+							"isDeleted": false,
+							"id": "56d9dc26-9df0-4180-94c4-ae4c26273a64",
+							"pos": 1
+						},
+						"71bfeb7f-17de-4e20-a1de-fbdc571161bd": {
+							"name": "Wednesday",
+							"isDeleted": false,
+							"id": "71bfeb7f-17de-4e20-a1de-fbdc571161bd",
+							"pos": 2
+						},
+						"adae35a1-0166-4366-a0c5-dd84ac0ec19a": {
+							"name": "Thursday",
+							"isDeleted": false,
+							"id": "adae35a1-0166-4366-a0c5-dd84ac0ec19a",
+							"pos": 3
+						},
+						"80a4fca4-3fd9-4ddc-864e-a2967eedb563": {
+							"name": "Friday",
+							"isDeleted": false,
+							"id": "80a4fca4-3fd9-4ddc-864e-a2967eedb563",
+							"pos": 4
+						},
+						"4397d8ce-0bff-446b-ba99-6e608a92d275": {
+							"name": "Saturday",
+							"isDeleted": false,
+							"id": "4397d8ce-0bff-446b-ba99-6e608a92d275",
+							"pos": 5
+						},
+						"3e3fd967-99fe-4f78-9a9f-420b66448440": {
+							"name": "Sunday",
+							"isDeleted": false,
+							"id": "3e3fd967-99fe-4f78-9a9f-420b66448440",
+							"pos": 6
+						}
+					},
+					"months": {
+						"4e58a2a1-e0dc-4a26-85ca-2c71d7ac0db9": {
+							"name": "January",
+							"days": 30,
+							"isDeleted": false,
+							"id": "4e58a2a1-e0dc-4a26-85ca-2c71d7ac0db9",
+							"pos": 0
+						},
+						"1ae7e7b9-015b-403c-904c-bd9752c67794": {
+							"name": "February",
+							"days": 30,
+							"isDeleted": false,
+							"id": "1ae7e7b9-015b-403c-904c-bd9752c67794",
+							"pos": 1
+						},
+						"45ffe645-3d3b-42bd-be0a-fe48404d6fb9": {
+							"name": "March",
+							"days": 30,
+							"isDeleted": false,
+							"id": "45ffe645-3d3b-42bd-be0a-fe48404d6fb9",
+							"pos": 2
+						},
+						"1d943858-5c48-4914-9c43-570d97438a7c": {
+							"name": "April",
+							"days": 30,
+							"isDeleted": false,
+							"id": "1d943858-5c48-4914-9c43-570d97438a7c",
+							"pos": 3
+						},
+						"e455a288-142b-41b5-af75-903b70bdb537": {
+							"name": "May",
+							"days": 30,
+							"isDeleted": false,
+							"id": "e455a288-142b-41b5-af75-903b70bdb537",
+							"pos": 4
+						},
+						"1f679e29-af9b-4cd7-8d36-968a2c166906": {
+							"name": "June",
+							"days": 30,
+							"isDeleted": false,
+							"id": "1f679e29-af9b-4cd7-8d36-968a2c166906",
+							"pos": 5
+						},
+						"023fb4f3-7cde-493a-97ad-3ed3330b21d4": {
+							"name": "July",
+							"days": 30,
+							"isDeleted": false,
+							"id": "023fb4f3-7cde-493a-97ad-3ed3330b21d4",
+							"pos": 6
+						},
+						"13c8c54e-9d80-4ce7-9ea1-3bc1e1e13368": {
+							"name": "August",
+							"days": 30,
+							"isDeleted": false,
+							"id": "13c8c54e-9d80-4ce7-9ea1-3bc1e1e13368",
+							"pos": 7
+						},
+						"0678b0c7-3bc0-4017-b411-6b9ea61e4992": {
+							"name": "September",
+							"days": 30,
+							"isDeleted": false,
+							"id": "0678b0c7-3bc0-4017-b411-6b9ea61e4992",
+							"pos": 8
+						},
+						"77458aff-d521-4686-9c3c-ab4ab03ccb1a": {
+							"name": "October",
+							"days": 30,
+							"isDeleted": false,
+							"id": "77458aff-d521-4686-9c3c-ab4ab03ccb1a",
+							"pos": 9
+						},
+						"b593c7c9-c47c-4ff0-bbab-b487c09966a2": {
+							"name": "November",
+							"days": 30,
+							"isDeleted": false,
+							"id": "b593c7c9-c47c-4ff0-bbab-b487c09966a2",
+							"pos": 10
+						},
+						"09b56099-d1e2-44f3-a7c9-8252f861c683": {
+							"name": "December",
+							"days": 30,
+							"isDeleted": false,
+							"id": "09b56099-d1e2-44f3-a7c9-8252f861c683",
+							"pos": 11
+						}
+					},
+					"events": {},
+					"encounters": {},
+					"seasons": {
+						"0763a1e4-f904-448b-8d2a-8b0f3cbb4b38": {
+							"name": "Spring",
+							"startDay": 0,
+							"endDay": 89,
+							"sunriseHour": 6,
+							"sunsetHour": 22,
+							"isDeleted": false,
+							"id": "0763a1e4-f904-448b-8d2a-8b0f3cbb4b38"
+						},
+						"c7f2c926-6d53-41db-b74e-d524f2bcd125": {
+							"name": "Summer",
+							"startDay": 90,
+							"endDay": 179,
+							"sunriseHour": 6,
+							"sunsetHour": 22,
+							"isDeleted": false,
+							"id": "c7f2c926-6d53-41db-b74e-d524f2bcd125"
+						},
+						"d3c0dd7d-663d-489c-b2c3-58b62bc8ccf0": {
+							"name": "Season 3",
+							"startDay": 180,
+							"endDay": 269,
+							"sunriseHour": 6,
+							"sunsetHour": 22,
+							"isDeleted": false,
+							"id": "d3c0dd7d-663d-489c-b2c3-58b62bc8ccf0"
+						},
+						"36561c50-8434-4474-8113-6a942aa19650": {
+							"name": "Winter",
+							"startDay": 270,
+							"endDay": 359,
+							"sunriseHour": 6,
+							"sunsetHour": 22,
+							"isDeleted": false,
+							"id": "36561c50-8434-4474-8113-6a942aa19650"
+						}
+					},
+					"years": {},
+					"eras": {
+						"1ecc46cb-ae7e-450d-ac32-d1eef0d0d067": {
+							"name": "Era of 12",
+							"abbreviation": "A12",
+							"startYear": 0,
+							"endYear": 0,
+							"isDeleted": false,
+							"id": "1ecc46cb-ae7e-450d-ac32-d1eef0d0d067"
+						}
+					},
+					"moons": {
+						"e66f403e-903a-4b04-b406-881ab56993c7": {
+							"name": "Moon 1",
+							"color": "#ffffff",
+							"phaseOffset": 0,
+							"period": 24,
+							"isDeleted": false,
+							"id": "e66f403e-903a-4b04-b406-881ab56993c7"
+						}
+					},
+					"tab": 0,
+					"isPaused": true,
+					"isAutoPaused": false,
+					"hasCalendarLabelsColumns": true,
+					"hasCalendarLabelsRows": false,
+					"unitsWindSpeed": "mph",
+					"isClockSectionHidden": false,
+					"isCalendarSectionHidden": false,
+					"isMechanicsSectionHidden": false,
+					"isOffsetsSectionHidden": false,
+					"isDaysSectionHidden": false,
+					"isMonthsSectionHidden": false,
+					"isSeasonsSectionHidden": false,
+					"isYearsSectionHidden": false,
+					"isErasSectionHidden": false,
+					"isMoonsSectionHidden": false
+				},
+				"compClockState": {
+					"state": {},
+					"compWeatherState": {
+						"state": {
+							"temperature": "mild",
+							"precipitation": "sunny",
+							"windDirection": 0,
+							"windSpeed": "calm"
+						}
+					}
+				},
+				"compCalendarState": {
+					"state": {}
+				},
+				"compSettingsState": {
+					"state": {}
+				}
+			}
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"w": 2,
+			"h": 2,
+			"t": 5,
+			"s": {
+				"r": [
+					{
+						"n": "Brock",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "",
+						"a": 0,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "Brynn",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "",
+						"a": 1,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "Clint",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "",
+						"a": 0,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "Joy",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "",
+						"a": 1,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "KItsune",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "",
+						"a": 0,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "Sai",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "",
+						"a": 0,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "Torra",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "",
+						"a": 1,
+						"c": [],
+						"v": true
+					},
+					{
+						"n": "Zen",
+						"k": [],
+						"h": "",
+						"g": "",
+						"i": "",
+						"a": 0,
+						"c": [],
+						"v": true
+					}
+				],
+				"s": "NUMBER",
+				"d": "ASC",
+				"m": false,
+				"g": true,
+				"p": true,
+				"a": false,
+				"k": false,
+				"piHp": false,
+				"piHm": false,
+				"piV": true,
+				"piO": false,
+				"piS": true,
+				"c": [
+					{
+						"id": "c86c4341-7fc7-4cb7-8d27-efd35c2153bc",
+						"v": 0,
+						"o": 1,
+						"e": true,
+						"p": "",
+						"po": null,
+						"a": ""
+					}
+				],
+				"n": "1"
+			}
+		},
+		{
+			"x": 4,
+			"y": 0,
+			"w": 1,
+			"h": 2,
+			"t": 2
+		},
+		{
+			"x": 5,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 3,
+			"s": {
+				"x": "Passives (Perception, Investigation, Insight)\n- Brock (10, 14, 10)\n- Brynn (15, 14, 15)\n- Clint (16, 14, 12)\n- Joy (X, X, X)\n- Kitsune (15, 12, 11)\n- Sai (11, 14, 10)\n- Torra (12, 11, 10)\n- Zen (X, X , X)"
+			}
+		}
+	],
+	"ex": []
+}
