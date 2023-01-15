@@ -18,6 +18,9 @@ climb down the ladder. They call out the PCs one by one by name and let them kno
 worse than demons have come for them. Angels. Ancient beings from the Reaping Wars who seek out 
 seemingly random beings and execute them. Archivus has a standing order to defend anyone who has been targeted._
 
+Above, a pale omen hangs in the sky. The moon, bone-white, casts its pale glow on the streets. To the West, a magical ball of daylight hangs above
+what must be the town plaza. "Archivus has the attention of the angels now. We should hurry." You hear distants sounds of thunder, and every so often there are bright flashes with accompanying great roars of explosions.
+
 _The PCs are ushered out of the safehouse. They are told that they need to make it through the city to 
 the Somberholde Academy, where the inner sanctum is warded against angels. The claws will guide them,
 but they need to move._
