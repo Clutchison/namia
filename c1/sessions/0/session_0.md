@@ -38,6 +38,11 @@ Sunday 6 MTN
 - Deaths might happen, and that's ok.
 - I will not kill your character unfairly.
 
+### When I ask for rolls
+Two things must be true for me to ask for a roll.
+- The outcome must be uncertain
+- The roll must add drama to the story.
+
 ### Campaign Framework
 
 - Difficulty will ramp.
