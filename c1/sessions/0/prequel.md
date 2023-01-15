@@ -2,7 +2,7 @@
 
 ## Intro
 
-All you have ever known, is Darkness. Your mothers and fathers, were you lucky enough to know them before they perished, told you tails of a long ago time, an age of sun and stars. But fairy 
+All you have ever known, is Darkness. Your mothers and fathers, were you lucky enough to know them before they perished, told you tails of a long ago time, an age of sun and stars. But fairy tails don't protect against the night. Against The Monster, the Demons. And worse. You've all found yourselves in the settlement of Somberholde. Here, Archivus Drakkenhand, the First Mage and his regiment of arcane fighters have managed to beat back the waves of demons for over a generation. An hour ago, the warning bells rang, signalling another demonic onslaught. You have all sheltered in an underground bunker. Other than hushed wispers of assurance from mothers to their worried children, all is silent.
 
 _PCs are survivors of the age of dark. They are all level 3 and are not divine classed.
 Huddled in Somberholde, they await out a demon attack, a common occurence for the time. But 
@@ -52,3 +52,7 @@ Cobblestone becomes tiled worked stone underfoot. Ahead, finally, the Sombeholde
 One by one the party is slain. 
 
 With the last member alive, the sun alights on the horizon. The angel screeches and vanishes into black mist.
+
+Con Save DC 15 or blinded
+
+The angel stalks towards you, swings its scythe. CON SAVE. Light brighter than you have ever seen lights the garden. With a screech like nails on a chalkboard, the angel vanishes into black mist. The blade of his scythe clatters to the ground. You wipe tears out of your eyes. To the East, you see a sight that you, nor your father, nor his father, have ever seen before. A Sun.
