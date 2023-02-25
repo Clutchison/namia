@@ -8,8 +8,11 @@
 - Thar's magic in them waters: TL has something in the water that makes it special.
 - Lots of traders pass through, but not much else. Too swampy for large military units, etc.
 - Architecture?
+  Buildings have spiral architecture, using the pliant yet strong dark wood found here.
 - Food?
+  Crawfish / Fungus / Fruits / Vegetables
 - Clothing?
+  
 
 
 ## Intro
@@ -23,4 +26,9 @@ You're in the center of Snailshell, the second largest settlement in Thousand-La
 People
 
 - Jay
-- Arunyin
+- Arunyin = Kanjorian
+
+Lakewalkers
+Bertram and Violet Poppywise: Father and daughter preparing to go fishing
+Elvira Wrenfeather: Cranky elderly woman who has always for some reason been kind to Clasp, at least when no one else was looking.
+Fenton Bramblethorn: Your childhood friend who has always tried to talk sense into Clasp about what actually matters to a Lakewalker.
