@@ -21,7 +21,7 @@ Japhar Damon not allowed in after monument destruction
   - Arun and the rest of the party are here but Jay is nowhere in sight.  Arun informs the party that their first task was to recover an amulet from a long dead wizard's laboratory nearby. A group known as the Grimblade Syndicate have recently discovered the location as well, and Arun is concerned that they are on their trail.
   - Arun tells the party that, among other things, the storms have been getting worse as of late. Something is wrong with the world. And this amulet might help Jay discover what is the reason for the storms.
   - Farah, the daughter of the innkeeper, has been feeling strange lately. An Arcstorm is on the horizon, and the inn is packed with travelers intent on waiting out the storm. Right as the rain begins, Farah vanishes.
-  - A man named Cerrick with a skull tattoo has been inhabiting a shack on the outskirts of town. Known as quite the card shark, he has been teaching Farah how to play poker. As Farah vanishes, so does Cerrick.
+  - A man named Cerrick with a Comet tattoo has been inhabiting a shack on the outskirts of town. Known as quite the card shark, he has been teaching Farah how to play poker. As Farah vanishes, so does Cerrick.
 
 ## Knowledge of Arctorms
 
