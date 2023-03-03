@@ -20,4 +20,5 @@
   _Drink of the strong10?chosen15?noble20 and sieze the future._
 - Inside the hidden bedchambers are a few items:
 - Coins containing 1100 gold and 65 silver.
-- 
+- Broken mirror, pendant containing incredibly faded portrait of a young woman.
+- Amulet of 

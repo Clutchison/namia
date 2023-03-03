@@ -2,10 +2,10 @@
 
 ## First Names
 
-- Bertram
-- Clementine
+- ~~Bertram~~
+- ~~Clementine~~
 - Dandelion
-- Elvira
+- ~~Elvira~~
 - Fenton
 - Gwendolyn
 - Heathcliff
@@ -21,18 +21,19 @@
 - Rosalind
 - Saffron
 - Theodora
-- Violet
+- ~~Violet~~
 
 ## Last Names
 
-- Poppywise
+- ~~Poppywise~~
 - Bumblefoot
 - Pippinwhistle
 - Daisydown
 - Marigoldhedge
 - Fizzlesprocket
-- Wrenfeather
+- ~~Wrenfeather~~
 - Brambleberry
+- ~~Bramblethorn~~
 - Snickerdoodle
 - Tumblethorn
 - Butterburrow
@@ -65,6 +66,6 @@
 - Bluebellhill
 - Cherryvale
 - Applewood
-- Snailshell
+- ~~Snailshell~~
 - Silverstream
 - Lavenderlane

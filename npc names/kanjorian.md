@@ -13,5 +13,5 @@
 - Dayalijuan (Dayali + Juan): a name meaning "generous grace"
 - Xianglika (Xiangli + Ka): a name meaning "fragrant pear blossom"
 - Rongxuanbala (Rongxuan + Bala): a name meaning "prosperous spring"
-- Arunyin (Arun + Yin): a name meaning "dawn sound"
+- ~~Arunyin (Arun + Yin): a name meaning "dawn sound"~~
 - Haipushmita (Hai + Pushmita): a name meaning "ocean of flowers"
