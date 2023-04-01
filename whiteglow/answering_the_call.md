@@ -22,3 +22,13 @@
 - Coins containing 1100 gold and 65 silver.
 - Broken mirror, pendant containing incredibly faded portrait of a young woman.
 - Amulet of 
+
+You have a +2 bonus to attack and damage rolls made with this magic weapon.
+
+Cursed. Requires a spell of Greater Restoration or stronger to remove.
+
+Adds +10 piercing damage when the target is both stronger than you and unaware of your presence.
+
+If left unsated for 48 hours, will compel the wielder to attack unsuspecting creatures, with a tendency to prefer stronger prey.
+
+Enhances the wielder's desires to pursue their desires.
