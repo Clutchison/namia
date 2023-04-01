@@ -4,7 +4,7 @@
 
 - Five members of the Grimblade Syndicate have come for Cerrick. They had been staking out his hut for a few hours before the party shows up. Upon getting him to open a door, one scout grimblade uses the opportunity to attempt to shoot Cerrick with an arrow. The door slams shut. The party turns to fight the foe they happen to be in the way of.
 - Arun hides immediately.
-- After the surprise round, a wave of golden light travels through the walls of the cabin and across the landscape. All members of the party (including Arun) are circled in a golden light. After any party member defeats a grimblade, the light passes inside the member and paralyzes them for a minute. Afterwards, they level up.
+- ~~After the surprise round, a wave of golden light travels through the walls of the cabin and across the landscape. All members of the party (including Arun) are circled in a golden light. After any party member defeats a grimblade, the light passes inside the member and paralyzes them for a minute. Afterwards, they level up.~~
 
 ## Lair of Dravenath
 
@@ -21,4 +21,15 @@
 - Inside the hidden bedchambers are a few items:
 - Coins containing 1100 gold and 65 silver.
 - Broken mirror, pendant containing incredibly faded portrait of a young woman.
-- Amulet of 
+- Amulet of Cosaire: An amulet containing a large opal.
+- Rope of Climbing
+- Pursuit (??? (Dagger +2)) drúchtú
+  - Upon identifying, the mind of the caster is filled with savage, fractured images: a wolf lunging and sinking its teeth into a deer, a man lit by candlelight feverishly playing a piano, a soldier beaming as a medal of honor is pinned to his uniform.
+  - A member of the _Anan Cracta_. A set of weapons that twist and corrupt their wielders.
+  - Cursed (Greater Restoration+) once attuned. Acts as a +2 magical weapon. Adds 2 to CHA and increases CHA max by 2. On hit make a contested Charisma saving throw. The loser takes damage equal to twice the difference.
+  - If left unsated for 48 hours, will compel the wielder to attack unsuspecting creatures, with a tendency to prefer stronger prey.
+  - Enhances the wielder's desires to pursue their desires to the point of madness.
+
+
+Grigglebock the dwarf - friend of Damon
+Halfling society no word for individual

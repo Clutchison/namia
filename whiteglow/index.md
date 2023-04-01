@@ -17,6 +17,7 @@ Eastern Western Tyroll
 Samir #Incident with Da'Mon
 Montebanks
 Japhar Damon not allowed in after monument destruction
+Jorah the Apthecary
 
   - Arun and the rest of the party are here but Jay is nowhere in sight.  Arun informs the party that their first task was to recover an amulet from a long dead wizard's laboratory nearby. A group known as the Grimblade Syndicate have recently discovered the location as well, and Arun is concerned that they are on their trail.
   - Arun tells the party that, among other things, the storms have been getting worse as of late. Something is wrong with the world. And this amulet might help Jay discover what is the reason for the storms.
