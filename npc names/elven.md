@@ -1,5 +1,5 @@
 Aerinethiel
-~~Caladwen~~ 
+~~Caladwen~~ - Fallen "elf" friend of Galathil/Farah
 Elenwë
 Ithilrondë
 Naiadriel
@@ -9,7 +9,7 @@ Tathariel
 Vanyarinthir
 Yavannethiel
 Círdanar
-~~Galathil~~
+~~Galathil~~ - Old elf vet from the war
 Haldil
 Lómelindë
 Melwasúlë

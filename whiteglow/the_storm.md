@@ -10,11 +10,7 @@
 
 Arun is contemplative. If asked, he will say that he wants to be like Da'Mon,
 sure of his way and knowing of his tenet.
-More than anything, he was happy that he helped Vehna escape. He felt purpose then.
-Arun believes he found his tenet, but will not speak any further on it.
-
-### The Dream
-
+More than anything, he was happy that he helped Vehna escape. He felt purpose then. Arun believes he found his tenet, but will not speak any further on it. ### The Dream
 Rhys appears in an empty coffee shop. The only light is a pale glow emanating from
 somewhere outside. Sitting (more leaning actually) at the bar is Jay.
 
@@ -42,3 +38,6 @@ put her out of her misery.
 
 The choice is yours, but just so you know, there are many that would say she deserved far worse
 for what she's done."
+
+The Last Vigil -- Graveyard
+
