@@ -206,4 +206,11 @@ to be a stone quarry, and up on a hill in the distance lies a solitary tower.
 - Tailor (The Yarnball) - Evelyn Ashwood (Tiefling)
 - Quarry - Brok Aedtaigh (Stone Dwarf)
 
+Other NPCs
+Samuel Fletcher - Farmer - Human
+Aelar Moonsshadow - Doctor - Elf
+Thraindor Laptaight - Gravel Dwarf
+Elara Brightsong - Bard - Human
+
+
 
