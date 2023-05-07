@@ -5,7 +5,8 @@ This is a phonetic inventory and phonotactics for an evil sounding fantasy conla
 - u
 - ɐ
 - æ
-- ʉ
+- e
+- ɑ
 
 # Consonants
 
@@ -28,8 +29,6 @@ This is a phonetic inventory and phonotactics for an evil sounding fantasy conla
 
 # Phonotactics
 
-drɐktu
-
 - Language has a (C)(C)V(C)(C)(C) structure
 - A glottal stop must be present between vowels
 - All onset consonant clusters increase in volume
@@ -37,7 +36,8 @@ drɐktu
 - Plenty of harsh sounds
 - There are a high amount of sonority plateaus 
 - First syllable is stressed considerably
-- Sonorants can only appear in the middle of a word, and are infrequent
+- Sonorants are uncommon
+- There is no gender differentiation
 - The consonants k, g, ɹ̠ are most common
 - x is uncommon
 - u and a are the most common vowels
@@ -50,63 +50,64 @@ drɐktu
 - A word that starts with "æ" is a negation of the normal word.
 - There is no way differentiate plural versus singular
 - Words with generally positive connotations are instead negations of their negative counterparts. For example: "ækal" means life and "kal" means death.
+- An object prefixed with "e" means "every object" or "all objects"
 
 # Vocabulary
 
 - hɐm - I, my, myself
 - kɐ - you, your, yourself
 - kɐx - they, theirs, themself
-- ɐk - and
-- ɾɐ - the (definite article)
+- ɐk - ɑnd
+- ɾɐ - the (definite ɑrticle)
 - pɐ - of
 - tɐ - to
 - nɐ - in
 - mɐ - on
 - xɐ - with
 - bɐ - from
-- dɐ - at
+- dɐ - ɑt
 - tsɐ - for
 - ɹ̠ɐ - by
 - hɐ - or
 - æ - not
 - u - this
-- ɐn - that
-- ʉ - all
+- ɐn - thɑt
+- e - ɑll
 - θɐ - some
 - ɾu - other
 
 - dɾɐktu - To pursue
-- gaθ - "broken"
-- gæθ - "to break"
+- gɑθ - "broken"
+- gæθ - "to breɑk"
 - ɾim - "word"
-- gaθa̠ɾim - "broken word"
-- ænan - "empty"
-- nan - "filled"
-- kɹ̠akta - "Vessel"
-- naθ - "until"
-- kal - "death"
+- gɑθɑ̠ɾim - "broken word"
+- ænɑn - "empty"
+- nɑn - "filled"
+- kɹ̠ɑktɑ - "Vessel"
+- nɑθ - "until"
+- kɑl - "deɑth"
 - krimθ - "shirk"
-- tsakt - "obligation"
-- ækuθ - "dream"
-- kuθ - "nightmare"
-- kɐɹ̠im - "weakness"
+- tsɑkt - "obligɑtion"
+- ækuθ - "dreɑm"
+- kuθ - "nightmɑre"
+- kɐɹ̠im - "weɑkness"
 - kɐx - "fire"
-- gɐn - "earth"
-- pɐh - "air"
-- ɹ̠æn - "darkness"
+- gɐn - "eɑrth"
+- pɐh - "ɑir"
+- ɹ̠æn - "dɑrkness"
 - æɹ̠æn - "light"
-- gæθanan - "become" (literally means to break and fill)
-- mukt - "water"
-- ækal - "life"
-- ɹuɐnaθ - "bond"
-- ækalɐmukt - "blood" (literally means "life water")
-- xaɾukt - "to drink"
-- ækalakɐx - "god" (literally means "living fire")
+- gæθɑnɑn - "become" (literɑlly meɑns to breɑk ɑnd fill)
+- mukt - "wɑter"
+- ækɑl - "life"
+- ɹuɐnɑθ - "bond"
+- ækɑlɐmukt - "blood" (literɑlly meɑns "life wɑter")
+- xɑɾukt - "to drink"
+- ækɑlɑkɐx - "god" (literɑlly meɑns "living fire")
 
-Example translation:
+Exɑmple trɑnslɑtion:
 
 "I pursue my dreams, and I break all bonds. My bond is my life. I have an obligation to pursue weakness. I drink their blood, and I become my God."
 
 translates to:
 
-dɾɐktuhem ækuθhem, ɐk gæθhem ʉɹuɐnaθ. ɹuɐnaθhem ækalhem. tsakthem dɾɐkt kɐɾ̠im. xaɾukthem ækalɐmuktkɐx, ɐk gæθananhem ækalakɐxhem.
+dɾɐktuhem ækuθhem, ɐk gæθhem eɹuɐnɑθ. ɹuɐnɑθhem ækɑlhem. tsɑkthem dɾɐkt kɐɾ̠im. xɑɾukthem ækɑlɐmuktkɐx, ɐk gæθɑnɑnhem ækɑlɑkɐxhem.
