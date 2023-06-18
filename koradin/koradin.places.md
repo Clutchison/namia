@@ -54,7 +54,7 @@ right are many doors, many of which continue to open and close as servants and s
 hurry about their day.  In the center is a circular cut out, two steps leading
 down to where a guest might address their host. And directly in front of you,
 three massive high-backed chairs that would put many a throne to shame.
-Behind them are three massive banners, one of Green, one of Red, and one of Black.
+Behind them are three colored banners, one of Green, one of Red, and one of Black.
 And, sitting in these would be thrones, are the Dragons of Koradin. On the
 left sits a human woman, exceptionally tall and slender. She is wearing an
 emerald dress that sparkles in the coldlight that suffuses the room. She wears

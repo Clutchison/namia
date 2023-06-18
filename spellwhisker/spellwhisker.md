@@ -31,6 +31,8 @@ seems to have taken place, and a demon well has been opened. The cult of
 the motherless is responsible. Thankfully, the cultists have already been
 dispatched by Thalendrius. They can be found in a burning pile outside of town.
 
+- Reside to the South at Galar's Rest.
+    (Age of Stars ruins that was used as refuge during Age of Dark. Now a swamp.)
 - They once worshipped the God of Death known as the Mother.
 - While originally not a threat, they have recently become hostile and have
 been wantonly murdering and desecrating holy sites.
