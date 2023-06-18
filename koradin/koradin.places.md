@@ -18,8 +18,8 @@
     - Owned by Mr. Black
     - Multiple Workforged run food/drink to customers
 - Magda's
-    - Owned by Magda's granddaughter, who is now in her 40s
-- Copper Rest
+    - Owned by Magda's granddaughter Jelene, who is now in her 40s
+- Copperhearth
 
 # River Street
 
@@ -51,7 +51,7 @@
     - Party can find books on:
         - A meta-analysis on the Everstorm and it's impacts on the economy
         - Divination for Dullards
-        - Not a hoax: Proof of the depth of Lithoseer prophecies
+        - Not a hoax: Proof of the depth and voracity of Lithoseer prophecies
         - Abyssalite and it's unique properties
         - Strength of Soul - Remembering one's past lives
         - Immune to the Glass Sickness. The curious case of Kof Monabaiza
