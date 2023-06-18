@@ -10,7 +10,51 @@
 - Remains of military equipment
 - Seat of Government
 - Race distribution
-- God I'm so happy right now.
+
+# Inns
+
+- Satin Spire
+    - Based Inn
+    - Owned by Mr. Black
+    - Multiple Workforged run food/drink to customers
+- Magda's
+    - Owned by Magda's granddaughter, who is now in her 40s
+- Copper Rest
+
+# River Street
+
+- Standard shops
+- Restaurants
+- Coffee Shops
+    - Golem Grinds
+    - Silt and Silk Cafe
+    - Nymph's Nectar
+
+# Starwalk
+
+- Magic Shops
+    - Melvin's Magic
+    - Astral Attire
+    - Luminous Luxuries
+    - Forged for You
+
+# Starlight Academy
+
+- Classes for magic, trades, and artificing
+- Three Hubs
+    - Arcanosphere
+    - Taighsphere
+    - Coldsphere
+- J is Dean of the Coldsphere and additionally taught classes in Divination.
+- Full name: Maximillian Jadus, known as Mr. J
+- J's Office has a magic silent alarm.
+    - Party can find books on:
+        - A meta-analysis on the Everstorm and it's impacts on the economy
+        - Divination for Dullards
+        - Not a hoax: Proof of the depth of Lithoseer prophecies
+        - Abyssalite and it's unique properties
+        - Strength of Soul - Remembering one's past lives
+        - Immune to the Glass Sickness. The curious case of Kof Monabaiza
 
 # Character Stories
 
