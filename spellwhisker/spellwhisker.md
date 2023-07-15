@@ -23,6 +23,7 @@ Aelar Moonsshadow - Doctor - Elf
 Thraindor Laptaight - Gravel Dwarf
 Elara Brightsong - Bard - Human
 
+Spring Time vs The Oasis
 
 # The Cult of the Motherless
 
@@ -36,4 +37,5 @@ dispatched by Thalendrius. They can be found in a burning pile outside of town.
 - They once worshipped the God of Death known as the Mother.
 - While originally not a threat, they have recently become hostile and have
 been wantonly murdering and desecrating holy sites.
+
 - Additionally, it appears that they have learned how to create Demon Wells.

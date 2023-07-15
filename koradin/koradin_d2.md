@@ -21,11 +21,6 @@
     - Based Inn
     - Owned by Mr. Black
     - Multiple Workforged run food/drink to customers
-
-    ```
-        As you make your way into the towering structure that is the
-        Satin Spire, you are greeted with elegance and wealth the likes of which
-        none of you have seen before.
 - Magda's
     - Owned by Magda's granddaughter Jelene, who is now in her 40s
 - Copperhearth
@@ -99,13 +94,27 @@ Towering above the other buildings in the Goldstone district is the Dragon's Lai
 a massive building of obsidian and gold.  Inside, a receptionist greets the party.
 The dragons are quite busy, but have an opening tomorrow a 11.
 
-The grandeur of the audience chamber is unlike anything you have experienced before.Colossal obsidian columns stretch upward, their ominous presence serving as support to a vaulted ceiling that has been painted black. Underfoot, the floor is a complex pattern of black and gold, ornate swirls winding through jet-black stone.
-To your left, a waterfall cascades into a pool. The soothing murmur of the waterfall takes a slight edge off of any tension that you may be feeling. On the opposite side, a flurry of activity marks the presence of many doors. Uniformed staff hurry in and out, none of them making eye contact as they hurry about their work.
-In the heart of the room is a hollowed-out circle, reachable by descending a pair of welcoming steps. It’s a stage designed to showcase the ambitions of guests who dare to present their cases before the mighty hosts. And beyond, set against the backdrop of three massive chairs that would give the grandest thrones a run for their money, are the legendary Dragons of Koradin.
-on the wall behind these would-be thrones are majestic banners - left to right, emerald green, fiery red, and deep black. These banners ripple slightly in the controlled air. Seated beneath them are the Dragons.
-On the left, an exceptionally tall human woman commands attention. Her slenderness is a striking contrast to the solid structure of her surroundings. Draped in an emerald dress that shimmers, as though animated by the ethereal cold light permeating the room, she exudes an inviting warmth. Her smile may be welcoming, but it is her focused, discerning eyes that hold a mesmeric pull, promising a careful scrutiny of every proposition.
-In the central chair is a medium-built warforged. His deep red vest is a sharp contrast against his polished metal body, every move reflecting light that dances across the structure of the room. He twirls a quill in his hand, his seeming absentmindedness feels awkwardly out of place. His wrists bear an array of golden jewelry, studded with gems.
-To the right, a sturdy male Tabaxi, adorned with a tortoise-shell coat. He is sporting a finely-tailored black suit that accentuates his large, imposing form. Across his neck is a massive well groomed lion's mane. Unlike his two compatriots, his face lacks any readable emotion. Instead he watches you approach with an unflinching gaze. His right hand rests lightly on a cane made of a dark, lacquered wood.
+The audience chamber might be one of the most elegant spaces the party has ever
+set foot. Massive obsidian columns rise to meet the vaulted ceiling, and all
+along the ground, black stone is inlaid with gold in intricate, swirrling patterns.
+To the left, a waterfall flows gently over and into a glass pool. To the
+right are many doors, many of which continue to open and close as servants and staff
+hurry about their day.  In the center is a circular cut out, two steps leading
+down to where a guest might address their host. And directly in front of you,
+three massive high-backed chairs that would put many a throne to shame.
+Behind them are three colored banners, one of Green, one of Red, and one of Black.
+And, sitting in these would be thrones, are the Dragons of Koradin. On the
+left sits a human woman, exceptionally tall and slender. She is wearing an
+emerald dress that sparkles in the coldlight that suffuses the room. She wears
+a welcoming smile, but her eyes are locked and attentive. In the center sits
+a warforged of medium build. He is wearing a vest of deep red, and is twirling
+a quill in his hand absentmindedly. His metal body has been polished to a near-mirror shine,
+and on his wrists are multiple pieces of jewelry, all gold and gems. Finally on the
+right sits a large male Tabaxi, bearing a tortoise shell coat and wearing a
+black tailored suit. He has a lion's mane that has been well groomed, and
+his right hand is resting on the handle of a cane,
+made of some dark, lacquered wood. He, too, watches you with a fixed stare,
+but he wears no smile to ease the tension.
 
 - They will be interested in the slime, but they will ask some hard questions.
 - How much money will Clasp need to get started?
