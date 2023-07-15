@@ -54,7 +54,7 @@
     - Arcanosphere
     - Taighsphere
     - Coldsphere
-- J is Dean of the Coldsphere and additionally taught classes in Divination.
+- J is Dean of the Artificery and additionally taught classes in Divination.
 - Full name: Maximillian Jadus, known as Mr. J
 - J's Office has a magic silent alarm.
     - Party can find books on:
