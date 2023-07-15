@@ -6,7 +6,7 @@
     - Just another excuse to give out prophecies
 - Gryphonwatch
     - Quest lead for Cultists
-- Secret Merchants (title)
+- Secret Merchants (title) The Brokers of Myth
     - Quest lead for Ruvaen location and for Black Lotus
 
 ## Academy
