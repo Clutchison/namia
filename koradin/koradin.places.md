@@ -149,6 +149,7 @@ At the desk is a hunched figure with a wiry frame.
 - Damon's soul has been fractured, and the pieces are being used by Gotha.
     As it stands, Damon cannot possibly win the fight, and one side or another will eventually consume him.
 - The Anan Cracta holds one of the Gotha currently residing inside Damon. It might be possible to use the dagger to extract the Gotha from Damon, but the other Gotha is uknown.
+- The dagger would need to be reforged into an
 - Either way, his only chance is to defeat them and capture them in powerful objects. These can either be existing Anan Cracta or items that are particularly valuable to Da'Mon.
 
 ## Rhys

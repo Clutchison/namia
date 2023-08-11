@@ -54,5 +54,3 @@ You take all this in in relative silence. Other than the hum of some nearby inse
 - Stairs vs magical elevator, requires set of glyphs
 - Front door has three locks,
 
-
-

@@ -34,7 +34,7 @@ This is a phonetic inventory and phonotactics for an evil sounding fantasy conla
 - All onset consonant clusters increase in volume
 - All coda clusters decrese in volume
 - Plenty of harsh sounds
-- There are a high amount of sonority plateaus 
+- There are a high amount of sonority plateaus
 - First syllable is stressed considerably
 - Sonorants are uncommon
 - There is no gender differentiation
@@ -106,8 +106,9 @@ This is a phonetic inventory and phonotactics for an evil sounding fantasy conla
 
 Exɑmple trɑnslɑtion:
 
-"I pursue my dreams, and I break all bonds. My bond is my life. I have an obligation to pursue weakness. I drink their blood, and I become my God."
+old - "I pursue my dreams, and I break all bonds. My bond is my life. I have an obligation to pursue weakness. I drink their blood, and I become my God."
+"I pursue my dreams without fail. I will be the greatest that I can be. I have an obligation to hunt down weakness. I drink its blood, and I become my own God."
 
 translates to:
 
-dɾɐktuhem ækuθhem, ɐk gæθhem eɹuɐnɑθ. ɹuɐnɑθhem ækɑlhem. tsɑkthem dɾɐkt kɐɾ̠im. xɑɾukthem ækɑlɐmuktkɐx, ɐk gæθɑnɑnhem ækɑlɑkɐxhem.
+dɾɐktuhem ækuθhem, ɐk gæθhem eɹuɐnɑθ. ɹuɐnɑθhem ækɑlhem. tsɑkthem dɾɐkt kɐɾ̠im., xɑɾukthem ækɑlɐmuktkɐx, ɐk gæθɑnɑnhem ækɑlɑkɐxhem.
