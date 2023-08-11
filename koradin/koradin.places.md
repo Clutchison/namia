@@ -26,7 +26,9 @@
         As you make your way into the towering structure that is the
         Satin Spire, you are greeted with elegance and wealth the likes of which
         none of you have seen before.
+    ```
 - Magda's
+It is a sanctuary for a mind that craves knowledge beyond the mundane, a haven where the esoteric scholar can delve deep into the mysteries of the arcane.
     - Owned by Magda's granddaughter Jelene, who is now in her 40s
 - Copperhearth
 
@@ -93,11 +95,19 @@ An alternate presents itself (somehow) in the form of a flower deep the the swam
 Said to have powers of growth, it might be the catalyst necessary to mass produce the slime while
 saving his home from gentrification and industry.
 
+Slugifer's Omelette
+
+Gavin the Bouncer
+Cira the Flamekin
+27g for the food
+
 ### The Dragon's Lair
 
 Towering above the other buildings in the Goldstone district is the Dragon's Lair,
 a massive building of obsidian and gold.  Inside, a receptionist greets the party.
 The dragons are quite busy, but have an opening tomorrow a 11.
+
+Rina, Jairin, Galdirum
 
 The grandeur of the audience chamber is unlike anything you have experienced before.Colossal obsidian columns stretch upward, their ominous presence serving as support to a vaulted ceiling that has been painted black. Underfoot, the floor is a complex pattern of black and gold, ornate swirls winding through jet-black stone.
 To your left, a waterfall cascades into a pool. The soothing murmur of the waterfall takes a slight edge off of any tension that you may be feeling. On the opposite side, a flurry of activity marks the presence of many doors. Uniformed staff hurry in and out, none of them making eye contact as they hurry about their work.
@@ -123,10 +133,23 @@ direct contact.
 
 The Gotharim expert will give them information on the dagger and Damon's condition, namely:
 
-- Damon's soul has been fractured, and the pieces are being used by Gotha (name?).
+As you step into the cramped, dimly lit apartment, a musty scent immediately assaults your senses. The air hangs heavy with the smell of old parchment and dusty tomes. The apartment is small, barely more than a single room, with a low ceiling that seems to press down upon you.
+
+The walls are lined with floor-to-ceiling bookshelves, their wooden frames creaking under the weight of countless volumes. The books themselves are worn, their covers faded and tattered, some even missing entirely. Titles written in archaic languages and cryptic symbols adorn their spines, hinting at the knowledge they contain.
+
+A rickety wooden desk takes center stage in the room, cluttered with stacks of loose papers and parchments filled with hastily scribbled notes and diagrams. The desk is strewn with quills, ink bottles, and half-empty cups of some kind of cold liquid, evidence of countless sleepless nights. The surface is marred by ink stains and burn marks.
+
+A single threadbare armchair rests by a small, cracked window, its once vibrant color faded to a somber gray. The cushions have lost their plushness, sagging under the weight of years. Next to the chair is some kind of complicated coldlight machine.
+
+Despite the disarray and neglect, you can't help but feel a sense of wonder at the place.
+
+Lysander Grimalkin
+At the desk is a hunched figure with a wiry frame.
+
+- Damon's soul has been fractured, and the pieces are being used by Gotha.
     As it stands, Damon cannot possibly win the fight, and one side or another will eventually consume him.
-- The Anan Cracta holds one of the Gotha currently residing inside Damon. It might be possible to use the
-dagger to extract the Gotha from Damon, but the other Gotha is uknown.
+- The Anan Cracta holds one of the Gotha currently residing inside Damon. It might be possible to use the dagger to extract the Gotha from Damon, but the other Gotha is uknown.
+- Either way, his only chance is to defeat them and capture them in powerful objects. These can either be existing Anan Cracta or items that are particularly valuable to Da'Mon.
 
 ## Rhys
 

@@ -32,7 +32,8 @@
 - Gotharim Expert
 
 ```
-    The gates to the Starlight Academy are open and are allowing citizens and warforged to come and go, most carrying satchels or bundles of papers. Ahead is a vast courtyard. At the center is a metallic fountain. It depicts a kneeling Warforged, its hands outstretched as it accepts a flame (represented by a twinking coldlight torch) from a robed figure. Surrounding the courtyard are three domed structures.
+    The gates to the Starlight Academy are open and are allowing citizens and warforged  to come and go, most carrying satchels or bundles of papers. Ahead is a vast courtyard. At the center is a metallic fountain. It depicts a kneeling Warforged, its hands outstretched as it accepts a flame (represented by a twinking coldlight torch) from a robed figure. Surrounding the courtyard are three domed structures.
+```
 
 
 
