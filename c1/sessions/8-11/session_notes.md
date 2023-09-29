@@ -32,14 +32,16 @@ Immovable Rod
     - Detailed description of lithomancy and how it's use of abyssalite might allow it to actually see into the future.
     - Describes the birth of this new practice within the last 80 years.
     - DC 12 Investigation: There is a footnote about how no prophecy has seen past the year of 1257 PD.
+    - Professor Grimalkin has been looking in to this in his spare time, whenever he needs a break from his Gotharim studies.
 - Abyssalite and it's unique properties
     - Goes into detail about how abyssalite seems to exist partially outside of time.
     - Working with the material is very dangerous, as it can cause your mind to fracture. Many who work with the material use a mindflasher in order to preserve their sanity.
-    - Mortimus Krigsbrandr used to study Abyssalite before his fascination with Gatharim got him kicked out of the academy.
+    - Professor Grimalkin used to study Abyssalite before his fascination with Gatharim overtook his curiosity.
 - Strength of Soul - Remembering one's past lives
     - Seems to be written by a shunned scholar of some kind, as there are multiple defensive statements interspersed with the claims of the book.
     - The author goes on to talk about how the greatest legends of the past were likely only so because they were able to maintain their identity and strength between lives.
     - DC 12 Inv: The author makes a distinction between remembering past lives and what he calls "Rapid onset short-term insight," which is a phenomenon where an individual will suddenly have precise knowledge of the details of an event moments before it happens. Notes that the rates of this phenomenon has been increasing in recent years, but muses whether that is simply due to more interest by scholars.
+    - Professor Grimalkin used to study past lives before his fascination with Gatharim overtook his curiosity.
 - Immune to the Glass Sickness. The curious case of Kof Monabaiza
     - Describes how the citizens of Kof Monabaiza, despite being a mix of various races and cultures, all seem to be immune to the disease known as The Glass Sickness.
     - No solid evidence has been found, but some theories include higher quality food and water and the general xenophobia shown to those who make the desert proper their home.
@@ -61,19 +63,23 @@ Immovable Rod
 ### Gotharim expert (Lysander Grimalkin)
 As you step into the cramped, dimly lit apartment, a musty scent immediately assaults your senses. The air hangs heavy with the smell of old parchment and dusty tomes. The apartment is small, barely more than a single room, with a low ceiling that seems to press down upon you.
 
-The walls are lined with floor-to-ceiling bookshelves, their wooden frames creaking under the weight of countless volumes. The books themselves are worn, their covers faded and tattered, some even missing entirely. Titles written in archaic languages and cryptic symbols adorn their spines, hinting at the knowledge they contain.
+The walls are lined with floor-to-ceiling bookshelves, their wooden frames creaking under the weight of thier volumes. The books themselves are worn, their covers faded and tattered, some even missing entirely. Titles written in archaic languages and cryptic symbols adorn the majority of their spines.
 
-A rickety wooden desk takes center stage in the room, cluttered with stacks of loose papers and parchments filled with hastily scribbled notes and diagrams. The desk is strewn with quills, ink bottles, and half-empty cups of some kind of cold liquid, evidence of countless sleepless nights. There is an hourglass on the table made of a light wood. The surface is marred by ink stains and burn marks.
+A rickety wooden desk takes center stage in the room, cluttered with stacks of loose papers and parchments filled with hastily scribbled notes and diagrams. The desk is strewn with quills, ink bottles, and half-empty cups filled with a dark brackish liquid. There is an hourglass on the table made of a light wood.
 
-A single threadbare armchair rests by a small, cracked window, its once vibrant color faded to a somber gray. The cushions have lost their plushness, sagging under the weight of years. Next to the chair is some kind of complicated coldlight machine.
+A single threadbare armchair rests by a small, cracked window, its once vibrant color faded to a somber gray. The cushions have lost their plushness, sagging under the weight of years. Directly behind the chair is some kind of complicated coldlight machine that hangs over the recliner.
 
-At the desk is a hunched figure with a wide. He scribbles furiously as he peers back and forth from two different open texts. His hair is long, wiry and black, and it pours over his shoulders and in front of his face. He's wearing a thick, drab robe with the sleeves pushed up to his elbows.
+At the desk is a hunched figure with wideset shoulders. He scribbles furiously as he peers back and forth from two different open texts. His hair is long, wiry and black, and it pours over his shoulders and in front of his face. He's wearing a thick, drab robe with the sleeves pushed up to his elbows.
 
-- Damon's soul has been fractured, and the pieces are being used by Gotha.
-    As it stands, Damon cannot possibly win the fight, and one side or another will eventually consume him.
-- The Anan Cracta holds one of the Gotha currently residing inside Damon. It might be possible to use the dagger to extract the Gotha from Damon, but the other Gotha is uknown.
-- The dagger would need to be reforged and made into an Anan Recendin. Would require silver, abyssalite, and coldstone. Gives hastily scrawled image and description.
-- But entrapping the Gotha back into the Anan Recendin would require a massive amount of magic. Typically done with a circle of 10 mages that can cast magic at the highest level. Knows that the Academy has a historical text in their archives written by a mage named Octarian Lenil that might contain the specifics of the spell.
+- Damon's soul has been fractured, and the pieces are being consumed by Gotha, ancient sentient words of power.
+- Has three otions
+    - Let the Gotha slowly consume you and enjoy immortality at the cost of your personality and agency.
+    - Gather the Anan Cracta that the Gotha came from and perform the rite of binding.
+    - Final option would be to craft a new Anan Recendin and bind the Gotha to that. Spell unknown to Lysander, but believes it could be found. However, the spell requires a massive amount of power and would typically be performed by a circle of 10 mages.
+
+## The Hammer
+
+Zephyr Hammer
 
 ## The Heap
 
@@ -95,4 +101,14 @@ The buildings here are a far cry from the well-constructed stone and brick you h
 
 The inhabitants of the Rotten district move with a quiet, resigned air. Their faces are worn, and their eyes averted.
 
+## The Road to GR
 
+The road out of Koradin winds it's way south. Very quickly, the lights of the city vanish as you make your way into the countryside. There are a few trees that dot the landscape, but the majority of the land is rocky and barren.
+
+### Fishmonger
+
+A merchant passes the party on the road. He has a caravan that has a powerful fishy smell coming from it. The merchant has a bad back and is missing an eye. He asks the party if they would like some fish.
+
+###
+
+## Galar's Rest
