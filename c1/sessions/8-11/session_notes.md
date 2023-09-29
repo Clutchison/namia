@@ -20,7 +20,6 @@ CHA Save DC 10. Divide by 3, round up, then add Mod
 
 ### Inventory
 
-1500 gold in platinum.
 Immovable Rod
 
 #### Books
@@ -36,6 +35,7 @@ Immovable Rod
 - Abyssalite and it's unique properties
     - Goes into detail about how abyssalite seems to exist partially outside of time.
     - Working with the material is very dangerous, as it can cause your mind to fracture. Many who work with the material use a mindflasher in order to preserve their sanity.
+    - Mortimus Krigsbrandr used to study Abyssalite before his fascination with Gatharim got him kicked out of the academy.
 - Strength of Soul - Remembering one's past lives
     - Seems to be written by a shunned scholar of some kind, as there are multiple defensive statements interspersed with the claims of the book.
     - The author goes on to talk about how the greatest legends of the past were likely only so because they were able to maintain their identity and strength between lives.
@@ -85,6 +85,8 @@ The inhabitants of the district all move with a hurried step. Most are Flamekin,
 
 The clanging of metal can be heard as Kin labor in makeshift workshops, crafting and repairing with an artisan's touch. Market stalls are filled with salvaged parts and strange gadgets.
 
+Bruni Ironbeard
+
 ## Rotten
 
 As you enter the district, you discover that is aptly named. The first thing that strikes you is the damp, earthy scent that seems to permeate everything. It's a smell that clings to the back of your throat, a combination of decaying wood and stagnant water. The air is heavy with a sense of decay.
@@ -92,17 +94,5 @@ As you enter the district, you discover that is aptly named. The first thing tha
 The buildings here are a far cry from the well-constructed stone and brick you have found in the city so far. Instead, the structures are fashioned from a strange porous wood, twisted and gnarled like the limbs of a suffering tree. Their timbers groan and creak as citizens come and go from their dwellings.
 
 The inhabitants of the Rotten district move with a quiet, resigned air. Their faces are worn, and their eyes averted.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
